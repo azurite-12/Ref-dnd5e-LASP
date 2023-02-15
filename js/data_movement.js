@@ -37,7 +37,7 @@ data_movement = [
         title: "Tirarse al piso",
         icon: "falling",
         subtitle: "Coste: 0ft",
-        description: "Coste de movimiento: 0ft (free)",
+        description: "Coste de movimiento: 0ft (gratis)",
         reference: "PHB, pgs. 190-191,292.",
         bullets: [
             "Puedes tirarte al piso sin usar puntos de velocidad.",
@@ -49,7 +49,7 @@ data_movement = [
         title: "Arrastrarse",
         icon: "crawl",
         subtitle: "Coste: 10ft × 5ft",
-        description: "Coste de movimiento: 10ft × 5ft crawled",
+        description: "Coste de movimiento: 10ft × 5ft arrastrados",
         reference: "PHB, pg. 182.",
         bullets: [
         ]
@@ -68,7 +68,7 @@ data_movement = [
         title: "Salto alto",
         icon: "wingfoot",
         subtitle: "Coste: 5ft × 5ft",
-        description: "Coste de movimiento: 5ft × 5ft jumped",
+        description: "Coste de movimiento: 5ft × 5ft saltados",
         reference: "PHB, pg. 182.",
         bullets: [
 			"Tu saltas al aire un número de ft igual a <b>3 + tu modificador de Fuerza</b> si te mueves 10ft de píe inmediatamente antes del salto.",
@@ -81,7 +81,7 @@ data_movement = [
         title: "Salto largo",
         icon: "wingfoot",
         subtitle: "Coste: 5ft × 5ft",
-        description: "Coste de movimiento: 5ft × 5ft jumped",
+        description: "Coste de movimiento: 5ft × 5ft saltados",
         reference: "PHB, pg. 182.",
         bullets: [
             "Cubres una distancia igual a tu puntaje de <b>Fuerza</b> si te mueves 10 píes inmediatamente antes de hacer el salto.",
