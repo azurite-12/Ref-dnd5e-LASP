@@ -20,7 +20,7 @@ data_bonusaction = [
         reference: "PHB, pg. 192.",
         bullets: [
             "No puedes lanzar un conjuro con tu acción y un conjuro diferente con tu acción adicional en el mismo turno, excepto si la acción se usa para lanzar un truco.",
-            "Para más detalles, vease la <b>acción</b> de <i>Conjurar</i>"
+            "Para más detalles, vease la <b>acción</b> de <i>Conjurar</i>."
         ]
     },
     {
@@ -28,7 +28,7 @@ data_bonusaction = [
         icon: "embrassed-energy",
         subtitle: "Algunos rasgos usan 1 acción adicional",
         description: "Usa un rasgo racial o de clase que requiera 1 acción adicional.",
-        reference: "Veanse los detalles de la respectiva clase o raza para más información",
+        reference: "Veanse los detalles de la respectiva clase o raza para más información.",
         bullets: [
 
         ]

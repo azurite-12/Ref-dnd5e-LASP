@@ -64,8 +64,9 @@ data_condition = [
         reference: "PHB, pg. 290.",
         bullets: [
             "Tu velocidad se reduce a 0, y no puedes recibir bonos a tu velocidad.",
-            "Esta condición termina si la criatura que te tiene agarrado es incapacitado.",
-            "La condición también termina si te remueven del alcance de la criatura que te agarra."
+            "Esta condición termina si la criatura que te tiene agarrado es incapacitada.",
+            "La condición también termina si te remueven del alcance de la criatura que te agarra.",
+            "Estar agarrado no te permite atacar con armas de dos manos, pero si con armas de una mano."
         ]
     },
     {

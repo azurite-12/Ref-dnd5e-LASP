@@ -30,7 +30,7 @@ data_reaction = [
         description: "Lanza un conjuto con un tiempo de lanzamiento de 1 reacción.",
         reference: "PHB, pg. 192.",
         bullets: [
-            "Evento: especificado por el conjuro.",
+            "Evento: especificado por el conjuro preparado.",
             "Para más detalles, vease la <b>acción</b> de <i>Conjurar</i>."
         ]
     }

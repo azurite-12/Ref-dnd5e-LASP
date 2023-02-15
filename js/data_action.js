@@ -24,7 +24,7 @@ data_action = [
             "El objetivo de tu agarre no debe ser más de un tamaño más grande que tú, y debe estar a tu alcance.",
             "Usando al menos una mano libre, intenta agarrar al objetivo haciendo una prueba de agarre: una prueba de Atletismo contra una prueba de Atletismo o Acrobacias del objetivo (el objetivo elige la habilidad a usar).",
             "Si tienes éxito, sometes a tu objetivo a la condición de agarre (su velocidad queda en 0).",
-            "Es posible atacar con un arma de una mano mientras tienes a otra criatura agarrada"
+            "Es posible atacar con un arma de una mano mientras tienes a otra criatura agarrada."
         ]
     },
     {
