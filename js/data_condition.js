@@ -85,7 +85,7 @@ data_condition = [
         reference: "PHB, pg. 291.",
         bullets: [
             "Para propositos de esconderse, cuentas como muy oscurecido.",
-            "De todas formas te pueden detectar por los sonidos que haces o las huellas que dejes.",
+            "De todas formas te pueden detectar por los sonidos que haces o por las huellas que dejes.",
             "Tienes ventaja en tiradas de ataque.",
             "Las tiradas de ataque contra ti tienen desventaja."
         ]
@@ -106,15 +106,15 @@ data_condition = [
         title: "Petrificado",
         icon: "stone-pile",
         subtitle: "Transformado en piedra",
-        description: "Tu y todos tus objetos no-mágicas son transformados a una sustancia solida (usualmente piedra)",
+        description: "Tu y todos tus objetos no-mágicas son transformados a una sustancia sólida (usualmente piedra)",
         reference: "PHB, pg. 291.",
         bullets: [
-            "Tu peso se multiplica por 10, y no envejeces.",
+            "Tu peso se multiplica por 10, y dejas de envejecer.",
             "Quedas incapacitado, no puedes moverte ni hablar, y no te percatas de tu entorno.",
             "Las tiradas de ataque contra ti tienen ventaja.",
             "Fallas automáticamente tiradas de salvación de Fuerza y Destreza.",
             "Tienes resistencia a todo tipo de daño.",
-            "Eres inmune al veneno y a las enfermedades. Aunque el veneno y/o enfermedades que ya estaban en tu cuerpo a la hora de la petrificación son suspendidas, no anuladas."
+            "Eres inmune al veneno y a las enfermedades. Aunque el veneno y/o enfermedades que ya estaban en tu cuerpo a la hora de la petrificación quedan suspendidas, no anuladas."
         ]
     },
     {
@@ -159,7 +159,7 @@ data_condition = [
         description: "Estás aturdido",
         reference: "PHB, pg. 292.",
         bullets: [
-            "Estás incapacitado, no puedes moverte y solo puedes hablar de forma vacilante.",
+            "Estás incapacitado, no puedes moverte y solo puedes hablar de manera vacilante.",
             "Las tiradas de ataque contra ti tienen ventaja.",
             "Fallas automáticante tiradas de salvación de Fuerza y Destreza."
         ]
@@ -174,7 +174,7 @@ data_condition = [
             "Estás incapacitado, no puedes moverte ni hablar, y no te percatas de tu entorno.",
             "Tu sueltas lo que sea que estés sujetando y caes al piso.",
             "Las tiradas de ataque contra ti tienen ventaja.",
-            "Cualquier ataque que te de es un crítico automáticamente si el atacante está a 5ft de ti.",
+            "Cualquier ataque que te dé es un crítico automáticamente si el atacante está a 5ft de ti.",
             "Fallas automáticamente tiradas de salvación de Fuerza y Destreza.",
         ]
     },

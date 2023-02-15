@@ -6,8 +6,8 @@ data_action = [
         description: "Realiza un ataque cuerpo-a-cuerpo o a distancia contra un objetivo.",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
-            "Ciertas funciones, como la función <i>Ataque Extra</i> del luchador, te permiten realizar más de un ataque con esta acción. Cada uno de estos ataques es una tirada separada y puede tener como objetivo diferentes criaturas. Puedes mientras haces estos ataques.",
-            "Cuando atacas con un arma cuerpo-a-cuerpo ligera, puedes usar una acción adicional para atacar con la otra mano (consulta el elemento de <i>Ataque secundario</i> en la sección de \"acción adicional\").",
+            "Ciertos rasgos, como el rasgo de <i>Ataque Extra</i> del Guerrero, te permiten realizar más de un ataque con esta acción. Cada uno de estos ataques es una tirada aparte y puede tener como objetivo diferentes criaturas. Puedes moverte mientras haces estos ataques.",
+            "Cuando atacas con un arma cuerpo-a-cuerpo ligera, puedes usar una acción adicional para atacar con la otra mano (consulta el elemento de <i>Ataque secundario</i> en la sección de <i>accipnes adicionales</i>).",
             "Puedes reemplazar uno de tus ataques cuerpo-a-cuerpo con un <i>Agarre</i> o un <i>Empujón</i>.",
             "Algunas condiciones otorgan ventaja en el ataque, como: ataques contra objetivos cegados, paralizados, petrificados, inmovilizados, aturdidos o inconscientes; ataques cuerpo a cuerpo contra objetivos postrados; ataques de atacantes invisibles u ocultos",
             "Algunas condiciones dan desventaja en el ataque, como: ataques contra objetivos invisibles u ocultos; ataques a distancia contra objetivos postradoss; ataques de atacantes cegados, asustados, envenenados o restringidos"
@@ -20,10 +20,11 @@ data_action = [
         description: "Intentas agarrar una criatura",
         reference: "PHB, pg. 195.",
         bullets: [
-            "Puedes usar la acción <i>Atacar</i> para hacer un ataque cuerpo-a-cuerpo especial, un agarre. Si puedes hacer múltiples ataques con la acción Atacar, este ataque reemplaza a uno de ellos.",
+            "Puedes usar la acción <i>Atacar</i> para hacer un ataque cuerpo-a-cuerpo especial, un agarre. Si puedes hacer múltiples ataques con la acción de <i>Ataque</i>, esta acción reemplaza a uno de ellos.",
             "El objetivo de tu agarre no debe ser más de un tamaño más grande que tú, y debe estar a tu alcance.",
             "Usando al menos una mano libre, intenta agarrar al objetivo haciendo una prueba de agarre: una prueba de Atletismo contra una prueba de Atletismo o Acrobacias del objetivo (el objetivo elige la habilidad a usar).",
-            "Si tienes éxito, sometes a tu objetivo a la condición de agarre (su velocidad queda en 0)."
+            "Si tienes éxito, sometes a tu objetivo a la condición de agarre (su velocidad queda en 0).",
+            "Es posible atacar con un arma de una mano mientras tienes a otra criatura agarrada"
         ]
     },
     {
@@ -47,9 +48,9 @@ data_action = [
         reference: "PHB, pg. 192.",
         bullets: [
             "No puedes lanzar un conjuro con tu acción y un conjuro diferente con tu acción adicional en el mismo turno, excepto si la acción se usa para lanzar un truco.",
-            "El objetivo de un conjuro debe estar dentro del alcance de éste. Para apuntarle a algo, debes tener un camino despejado hacia él, por lo que no puede estar detrás de una cobertura total.",
-            "Los conjuros con componentes materiales no consumen los materiales en cuestión a menos que se indique explícitamente. A menos que se indique el costo de un material, puedes asumir que el costo es insignificante y que el material simplemente está disponible en una bolsa de componentes",
-            "Algunos conjuros requieren que mantengas la concentración para mantener su magia activa. Si pierdes la concentración, ese conjuro termina. Pierdes la concentración en un conjuro si lanzas otro conjuro que requiere concentración o cuando quedes incapacitado. Cada vez que recibes daño, debes hacer una tirada de salvación de Constitución para mantener tu concentración. La CD es igual a 10 o la mitad del daño que recibes, el número que sea mayor"
+            "El objetivo de un conjuro debe estar dentro del alcance de éste. Para apuntarle a algo o a alguien, debes tener un camino despejado hacia él, por lo que no puede estar detrás de una cobertura total.",
+            "Los conjuros con componentes materiales no consumen los materiales en cuestión, a menos que se indique explícitamente. A menos que se indique el costo de un material, puedes asumir que el costo es insignificante y que el material simplemente está disponible en una bolsa de componentes.",
+            "Algunos conjuros requieren que mantengas la concentración para mantener su magia activa. Si pierdes la concentración, ese conjuro termina. Pierdes la concentración en un conjuro si lanzas otro conjuro que requiere concentración o cuando quedes incapacitado. Cada vez que recibes daño, debes hacer una tirada de salvación de Constitución para mantener tu concentración. La CD es igual a 10 o la mitad del daño que recibes, el número que sea mayor."
         ]
     },
     {
@@ -112,7 +113,7 @@ data_action = [
         description: "Interactua con algún objeto o usa habilidades especiales que involucren objetos",
         reference: "PHB, pg. 193.",
         bullets: [
-            "Puedes interactuar con un objeto gratis durante tu turno (como sacar un arma o abrir una puerta). Si quieres interactuar con un segundo objeto, debes usar esta acción.",
+            "Puedes interactuar con un objeto durante tu turno (como sacar un arma o abrir una puerta) sin coste alguno. Si quieres interactuar con un segundo objeto, debes usar esta acción.",
             "Cuando un objeto requiera tu acción durante tu turno, usas esta acción."
         ]
     },
@@ -123,8 +124,8 @@ data_action = [
         description: "Equipar o desequipar un escudo",
         reference: "PHB, pgs. 144-146.",
         bullets: [
-            "Un escudo siempre usa una acción para equipar o desequipar.",
-            "La armadura toma varius minutos en equiparse y desequiparse."
+            "Un escudo siempre usa una acción para equiparse o desequiparse.",
+            "La armadura toma varios minutos en equiparse y desequiparse."
         ]
     },
     {

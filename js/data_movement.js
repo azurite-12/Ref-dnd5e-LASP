@@ -6,8 +6,8 @@ data_movement = [
         description: "Coste de movimiento: 5ft × 5ft",
         reference: "PHB, pg. 190.",
         bullets: [
-			"Si tienes más de 1 punto de velocidad, como tu velocidad de caminar o volar, puedes cambiar entre velocidades libremente durante tu turno. Si cambias, sustrae la distancia que ya recorriste de la nueva velocidad",
-            "Te puedes mover libremente a través del espacio de una criatura no-hostil",
+			"Si tienes más de 1 punto de velocidad, como tu velocidad de caminar o volar, puedes cambiar entre velocidades libremente durante tu turno. Si cambias, sustrae la distancia que ya recorriste de la nueva velocidad.",
+            "Te puedes mover libremente a través del espacio de una criatura no-hostil.",
 			"Te puedes mover a través del espacio de una criatura hostil solo si la criatura en cuestión es 2 tamaños más grande o pequeña que tú.",
 			"El espacio de otra criatura cuenta como terreno difícil para ti.",
 			"Sea una criatura aliada u hostil, no puedes terminar tu turno en su espacio.",
@@ -41,7 +41,7 @@ data_movement = [
         reference: "PHB, pgs. 190-191,292.",
         bullets: [
             "Puedes tirarte al piso sin usar puntos de velocidad.",
-            "Para moverte mientras estás en el piso, debes arrastrarte o usar magia (como teletransportación).",
+            "Para moverte mientras estás en el piso, debes arrastrarte o usar magia (como teletransportación, por ejemplo).",
 			"Tirarte al piso te da la condición de <i>Postrado</i> (Ataques cuerpo-a-cuerpo contra ti tienen ventaja, ataques a distancia tienen desventaja; tus ataques tienen desventaja)."
         ]
     },
@@ -71,7 +71,7 @@ data_movement = [
         description: "Coste de movimiento: 5ft × 5ft jumped",
         reference: "PHB, pg. 182.",
         bullets: [
-			"Tu saltas al aire un número de ft igual a <b>3 + tu modificador de fuerza</b> si te mueves 10 ft de píe inmediatamente antes del salto.",
+			"Tu saltas al aire un número de ft igual a <b>3 + tu modificador de Fuerza</b> si te mueves 10ft de píe inmediatamente antes del salto.",
             "Cuando saltas sin haberte movido antes, solo te elevas la mitad de esa distancia.",
             "Puedes extender tus brazos la mitad de tu altura durante ese salto.",
             "En algunas circunstancias, tu DM te permitirá hacer una tirada de Atletismo para saltar más alto de lo que normalmente puedes."
@@ -84,7 +84,7 @@ data_movement = [
         description: "Coste de movimiento: 5ft × 5ft jumped",
         reference: "PHB, pg. 182.",
         bullets: [
-            "Cubres una distancia igual a tu stat de <b>Fuerza</b> si te mueves 10 píes inmediatamente antes de hacer el salto.",
+            "Cubres una distancia igual a tu puntaje de <b>Fuerza</b> si te mueves 10 píes inmediatamente antes de hacer el salto.",
             "Si saltas sin moverte antes, solo cubres la mitad de esa distancia.",
 			"Puede involucrar una tirada de <b>Atletismo CD10</b> para pasar sobre un obstáculo (no más alto que 1/4 de la distancia del salto). Te estrellas en el obstaculo si fallas dicha tirada.",
 			"Puede involucrar una tirada de <b>Acrobacia CD10</b> para caer de píe en terreno difícil. Caes postrado si fallas dicha tirada."

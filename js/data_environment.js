@@ -52,7 +52,7 @@ data_environment_light = [
         reference: "PHB, pg. 183.",
         bullets: [
             "Crea un area de <b>oscuridad alta</b>.",
-            "Las criaturas se enfrentan a la oscuridad al aire libre durante la noche (incluso en la mayoría de las noches iluminadas por la luna), dentro de los confines de una mazmorra sin luz o una bóveda subterránea, o en un área de oscuridad mágica."
+            "Las criaturas se enfrentan a la oscuridad al aire libre durante la noche (incluso en la mayoría de las noches iluminadas por la luna), dentro de los confines de una mazmorra sin luz, una bóveda subterránea, o en un área de oscuridad mágica."
         ]
     }
 ]
