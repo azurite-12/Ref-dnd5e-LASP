@@ -66,6 +66,7 @@ data_condition = [
             "Tu velocidad se reduce a 0, y no puedes recibir bonos a tu velocidad.",
             "Esta condición termina si la criatura que te tiene agarrado es incapacitada.",
             "La condición también termina si te remueven del alcance de la criatura que te agarra.",
+            "Alternativamente, puedes tomar la <b>acción</b> <i>Escapar</i>. Vease esta acción en la sección de acciones.",
             "Estar agarrado no te permite atacar con armas de dos manos, pero si con armas de una mano."
         ]
     },

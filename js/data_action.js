@@ -44,7 +44,7 @@ data_action = [
         title: "Conjurar",
         icon: "magic-swirl",
         subtitle: "Lanzamiento de 1 acción",
-        description: "Lanza un conjuto con un tiempo de conjuración de 1 acción",
+        description: "Lanza un conjuro con un tiempo de conjuración de 1 acción",
         reference: "PHB, pg. 192.",
         bullets: [
             "No puedes lanzar un conjuro con tu acción y un conjuro diferente con tu acción adicional en el mismo turno, excepto si la acción se usa para lanzar un truco.",

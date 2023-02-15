@@ -27,7 +27,7 @@ data_reaction = [
         title: "Conjurar",
         icon: "magic-swirl",
         subtitle: "Tiempo de lanzamiento de 1 reacción",
-        description: "Lanza un conjuto con un tiempo de lanzamiento de 1 reacción.",
+        description: "Lanza un conjuro con un tiempo de lanzamiento de 1 reacción.",
         reference: "PHB, pg. 192.",
         bullets: [
             "Evento: especificado por el conjuro preparado.",
