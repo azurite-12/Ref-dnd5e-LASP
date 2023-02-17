@@ -3,7 +3,7 @@ data_condition = [
         title: "Cegado",
         icon: "one-eyed",
         subtitle: "No puedes ver",
-        description: "You can't see",
+        description: "No puedes ver nada",
         reference: "PHB, pg. 290.",
         bullets: [
             "Fallas automáticamente toda prueba de habilidad que requiera visión.",
@@ -39,7 +39,7 @@ data_condition = [
         description: "La fatiga se mide en 6 niveles",
         reference: "PHB, pg. 291.",
         bullets: [
-            "<table><tr><th>Nivel</th><th></th><th></th><th style='text-align:left'>Efecto</th></tr><tr><td>1</td><td></td><td></td><td>Desventaja en pruebas de habilidad</td></tr><tr><td>2</td><td></td><td></td><td>Velocidad reducida a la mitad</td></tr><tr><td>3</td><td></td><td></td><td>Desventaja en tiradas de ataque y de salvación</td></tr><tr><td>4</td><td></td><td></td><td>HP máximo reducido a la mitad</td></tr><tr><td>5</td><td></td><td></td><td>Velocidad reducida a 0</td></tr><tr><td>6</td><td></td><td></td><td>Muerte</td></tr></table>",
+            "<table><tr><th>Nivel</th><th></th><th></th><th style='text-align:left'>Efecto</th></tr><tr><td>1</td><td></td><td></td><td>Desventaja en pruebas de habilidad.</td></tr><tr><td>2</td><td></td><td></td><td>Velocidad reducida a la mitad.</td></tr><tr><td>3</td><td></td><td></td><td>Desventaja en tiradas de ataque y de salvación.</td></tr><tr><td>4</td><td></td><td></td><td>HP máximo reducido a la mitad.</td></tr><tr><td>5</td><td></td><td></td><td>Velocidad reducida a 0.</td></tr><tr><td>6</td><td></td><td></td><td>Muerte.</td></tr></table>",
             "Tu sufres los efectos de tu actual nivel de fatiga y también los efectos de todos los niveles anteriores.",
             "Tomar un descanso largo reduce tu nivel de fatiga en 1, siempre y cuando hayas comido antes.",
             "También, haber sido revivido reduce el nivel de fatiga de una criatura por 1."
@@ -97,6 +97,7 @@ data_condition = [
         icon: "internal-injury",
         subtitle: "Estás paralizado",
         description: "No puedes hacer nada",
+        reference: "PHB, pg. 291.",
         bullets: [
             "Estás incapacitado y no te puedes mover ni hablar.",
             "Las tiradas de ataque contra ti tienen ventaja.",
@@ -126,7 +127,7 @@ data_condition = [
         description: "Estás envenenado",
         reference: "PHB, pg. 292.",
         bullets: [
-            "Tienes desventaja en tiradas de ataques y en pruebas de habilidades."
+            "Tienes desventaja en tiradas de ataque y en pruebas de habilidades."
         ]
     },
     {
@@ -191,7 +192,7 @@ data_condition = [
             "Si recibes cualquier tipo de curación, recuperas tu consciencia y dejas de agonizar.",
             "Cuando agonizas, al inicio de cada uno de tus turnos, haces una tirada de salvación de muerte. Tira un d20 sin añadir ningún modificador.",
             "Un 10 o mayor es un éxito, un 9 o menor es un fracaso",
-            "En tu tercer éxito, te estabilizas,",
+            "En tu tercer éxito, te estabilizas.",
             "En tu tercer fracaso, mueres.",
             "Un 1 cuenta como dos fracasos.",
             "Un 20 inmediatamente provoca que recuperes 1HP.",
