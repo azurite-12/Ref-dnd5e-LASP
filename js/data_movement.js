@@ -95,7 +95,7 @@ data_movement = [
         icon: "juggler",
         subtitle: "Acciones no listadas",
         reference: "PHB, pg. 193.",
-        description: "Hacer cualquier movimiento o acción que no está en esta lista.",
+        description: "Hacer cualquier movimiento o acción que no está en esta lista",
         bullets: [
 			"Cuando describes un tipo de movimiento que no está en las reglas, el DM te dirá si éste es posible o no, y qué tirada tienes que hacer, si es necesario, para determinar su éxito o fracaso."
         ]
@@ -105,7 +105,7 @@ data_movement = [
         icon: "stone-pile",
         subtitle: "Modificador de coste: +5ft × 5ft",
         reference: "PHB, pg. 182.",
-        description: "Moverte a través de terreno dificil cuesta 5ft extras × 5ft de terreno atravesado.",
+        description: "Moverte a través de terreno dificil cuesta 5ft extras × 5ft de terreno atravesado",
         bullets: [
         ]
     },

@@ -134,7 +134,7 @@ data_condition = [
         title: "Postrado",
         icon: "crawl",
         subtitle: "Estás postrado",
-        description: "Estás tirado al piso",
+        description: "Estás tirado en el piso",
         reference: "PHB, pg. 292.",
         bullets: [
             "Tu única opción de movimiento es arrastrarse, a menos que te levantes.",

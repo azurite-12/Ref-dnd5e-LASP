@@ -40,8 +40,8 @@ data_environment_light = [
         reference: "PHB, pg. 183.",
         bullets: [
             "Crea un area <b>levemente oscurecida</b>.",
-            "Un area de luz tenua es usualmente el borde entre un area muy oscurecida y un area de luz brillante.",
-            "La suave luz del crepúsculo y del amanecer también cuentan como luz tenue. Una luna llena particularmente brillante podría cubrir la tierra con luz tenue."
+            "Un area de luz tenue es usualmente el borde entre un area muy oscurecida y un area de luz brillante.",
+            "La suave luz del crepúsculo y del amanecer también cuentan como luz tenue. Una luna llena particularmente brillante puede cubrir la tierra con luz tenue."
         ]
     },
     {
@@ -87,8 +87,8 @@ data_environment_vision = [
         description: "Una criatura con visión verdadera puede ver todo en su forma real, independiente del estado del entorno.",
         reference: "PHB, pg. 184.",
         bullets: [
-            "Una criatura con visión verdadera puede, dentro de un rango específico, ver en la oscuridad normal y mágica, ver criaturas y objetos invisibles, detectar automáticamente ilusiones visuales y tener éxito en las tiradas de salvación contra ellos, y percibe la forma original de un cambiaformas o una criatura que es transformado por magia.",
-            "Además, la criatura puede también ver el Plano Etéreo."
+            "Una criatura con visión verdadera puede, dentro de un rango específico, ver en la oscuridad normal y mágica, ver criaturas y objetos invisibles, detectar automáticamente ilusiones visuales y tener éxito en las tiradas de salvación contra ellos, y percibe la forma original de un cambiaformas o una criatura que es transformada por magia.",
+            "Además, la criatura en cuestión puede también ver el Plano Etéreo."
         ]
     }
 ]
@@ -114,7 +114,7 @@ data_environment_cover = [
         reference: "PHB, pg. 196.",
         bullets: [
             "El obstáculo puede ser una puerta de rastrillo, una aspillera o el tronco grueso de un árbol.",
-            "Un objetivo detrás de una cobertura tres-cuartos tiene un bono de <b>+5 a su CA y asus tiradas de salvación de Destreza</b>.",
+            "Un objetivo detrás de una cobertura tres-cuartos tiene un bono de <b>+5 a su CA y a sus tiradas de salvación de Destreza</b>.",
             "Si un objetivo está detrás de múltiples fuentes de cobertura, solo se aplica el grado de cobertura mayor."
         ]
     },

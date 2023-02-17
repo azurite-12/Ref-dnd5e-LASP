@@ -179,7 +179,7 @@ data_action = [
         title: "Estabilizar criatura",
         icon: "first-aid",
         subtitle: "Dar primeros auxilios",
-        description: "Puedes detener a una criatura de hacer tiradas de salvación de muerte.",
+        description: "Puedes detener a una criatura de hacer tiradas de salvación de muerte",
         reference: "PHB, pg. 197.",
         bullets: [
             "Haz una prueba de Medicina de CD10.",
