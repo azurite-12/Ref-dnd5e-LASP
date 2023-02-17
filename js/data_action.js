@@ -9,8 +9,8 @@ data_action = [
             "Ciertos rasgos, como el rasgo de <i>Ataque Extra</i> del Guerrero, te permiten realizar más de un ataque con esta acción. Cada uno de estos ataques es una tirada aparte y puede tener como objetivo diferentes criaturas. Puedes moverte mientras haces estos ataques.",
             "Cuando atacas con un arma cuerpo-a-cuerpo ligera, puedes usar una acción adicional para atacar con la otra mano (consulta el elemento de <i>Ataque secundario</i> en la sección de <i>accipnes adicionales</i>).",
             "Puedes reemplazar uno de tus ataques cuerpo-a-cuerpo con un <i>Agarre</i> o un <i>Empujón</i>.",
-            "Algunas condiciones otorgan ventaja en el ataque, como: ataques contra objetivos cegados, paralizados, petrificados, inmovilizados, aturdidos o inconscientes; ataques cuerpo a cuerpo contra objetivos postrados; ataques de atacantes invisibles u ocultos",
-            "Algunas condiciones dan desventaja en el ataque, como: ataques contra objetivos invisibles u ocultos; ataques a distancia contra objetivos postradoss; ataques de atacantes cegados, asustados, envenenados o restringidos"
+            "Algunas condiciones otorgan ventaja en el ataque, como: ataques contra objetivos cegados, paralizados, petrificados, inmovilizados, aturdidos o inconscientes; ataques cuerpo a cuerpo contra objetivos postrados; ataques de atacantes invisibles u ocultos.",
+            "Algunas condiciones dan desventaja en el ataque, como: ataques contra objetivos invisibles u ocultos; ataques a distancia contra objetivos postradoss; ataques de atacantes cegados, asustados, envenenados o restringidos."
         ]
     },
     {
@@ -31,7 +31,7 @@ data_action = [
         title: "Empujón",
         icon: "hand",
         subtitle: "Ataque especial",
-        description: "Empuja una criatura, sea para tirarla al piso o para alejarla de ti.",
+        description: "Empuja una criatura, sea para tirarla al piso o para alejarla de ti",
         reference: "PHB, pg. 195.",
         bullets: [
             "Usando la acción de <i>Ataque</i>, puedes hacer un ataque cuerpo-a-cuerpo especial para empujar a una criatura. Si puedes hacer múltiples ataques con la acción de Ataque, este ataque reemplaza a uno de ellos.",
@@ -67,7 +67,7 @@ data_action = [
         title: "Retirarse",
         icon: "journey",
         subtitle: "Previene atks de oportunidad",
-        description: "Tu movimiento no provoca ataques de oportunidad en tu turno.",
+        description: "Tu movimiento no provoca ataques de oportunidad en tu turno",
         reference: "PHB, pg. 192.",
         bullets: [
         ]
@@ -76,7 +76,7 @@ data_action = [
         title: "Esquivar",
         icon: "aura",
         subtitle: "Aumenta defensas",
-        description: "Te concentras completamente en esquivar ataques.",
+        description: "Te concentras completamente en esquivar ataques",
         reference: "PHB, pg. 192.",
         bullets: [
             "Hasta el comienzo de tu próximo turno, cualquier tirada de ataque contra ti tiene desventaja si puedes ver al atacante, y haces tiradas de salvación de Destreza con ventaja.",
@@ -169,7 +169,7 @@ data_action = [
         title: "Usar rasgo de clase",
         icon: "embrassed-energy",
         subtitle: "Algunos rasgos usan 1acción",
-        description: "Usa un rasgo racial o de clase que requiera 1 acción.",
+        description: "Usa un rasgo racial o de clase que requiera 1 acción",
         reference: "Veanse los detalles de la respectiva clase o raza para más información.",
         bullets: [
 
@@ -182,8 +182,8 @@ data_action = [
         description: "Puedes detener a una criatura de hacer tiradas de salvación de muerte.",
         reference: "PHB, pg. 197.",
         bullets: [
-            "Haz una prueba de Medicina de CD10",
-            "Si es exitosa, la criatura se estabiliza y no necesita hacer tiradas de salvación de muerte",
+            "Haz una prueba de Medicina de CD10.",
+            "Si es exitosa, la criatura se estabiliza y no necesita hacer tiradas de salvación de muerte.",
             "Una criatura estable recupera 1hp después de 1d4 horas."
         ]
     },

@@ -26,7 +26,7 @@ data_environment_light = [
         title: "Luz brillante",
         icon: "star-pupil",
         subtitle: "Visión normal",
-        description: "La luz brillante deja a la mayoría de criaturas ver normalmente.",
+        description: "La luz brillante deja a la mayoría de criaturas ver normalmente",
         reference: "PHB, pg. 183.",
         bullets: [
             "Los días lugubres también proveen de luz brillante. Al igual que las antorchas, fogatas, linternas, y otras fuentes de iluminación en un radio específico."
@@ -98,7 +98,7 @@ data_environment_cover = [
         title: "Cobertura media",
         icon: "broken-shield",
         subtitle: "Muralla baja, muebles",
-        description: "Un objetivo tiene cobertura media si un obstaculo cobre al menos la mitad de su cuerpo",
+        description: "Un objetivo tiene cobertura media si un obstáculo cobre al menos la mitad de su cuerpo",
         reference: "PHB, pg. 196.",
         bullets: [
             "El obstáculo puede ser una muralla baja, un mueble grande, un tronco de árbol angosto o una criatura, ya sea esa criatura un enemigo o un amigo.",
@@ -110,7 +110,7 @@ data_environment_cover = [
         title: "Cobertura tres-cuartos",
         icon: "cracked-shield",
         subtitle: "Aspillera, tronco grueso",
-        description: "A target has three-quarters cover if about three-quarters of it is covered by an obstacle",
+        description: "Un objetivo tiene cobertura tres-cuartos si un obstáculo cubre al menos tres-cuartos de su cuerpo",
         reference: "PHB, pg. 196.",
         bullets: [
             "El obstáculo puede ser una puerta de rastrillo, una aspillera o el tronco grueso de un árbol.",

@@ -27,10 +27,9 @@ data_bonusaction = [
         title: "Usar rasgo de clase",
         icon: "embrassed-energy",
         subtitle: "Algunos rasgos usan 1 acción adicional",
-        description: "Usa un rasgo racial o de clase que requiera 1 acción adicional.",
+        description: "Usa un rasgo racial o de clase que requiera 1 acción adicional",
         reference: "Veanse los detalles de la respectiva clase o raza para más información.",
         bullets: [
-
         ]
     }
 ]

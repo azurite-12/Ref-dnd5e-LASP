@@ -86,7 +86,7 @@ data_movement = [
         bullets: [
             "Cubres una distancia igual a tu puntaje de <b>Fuerza</b> si te mueves 10 píes inmediatamente antes de hacer el salto.",
             "Si saltas sin moverte antes, solo cubres la mitad de esa distancia.",
-			"Puede involucrar una tirada de <b>Atletismo CD10</b> para pasar sobre un obstáculo (no más alto que 1/4 de la distancia del salto). Te estrellas en el obstaculo si fallas dicha tirada.",
+			"Puede involucrar una tirada de <b>Atletismo CD10</b> para pasar sobre un obstáculo (no más alto que 1/4 de la distancia del salto). Te estrellas en el obstáculo si fallas dicha tirada.",
 			"Puede involucrar una tirada de <b>Acrobacia CD10</b> para caer de píe en terreno difícil. Caes postrado si fallas dicha tirada."
         ]
     },
@@ -94,6 +94,7 @@ data_movement = [
         title: "Improvisar",
         icon: "juggler",
         subtitle: "Acciones no listadas",
+        reference: "PHB, pg. 193.",
         description: "Hacer cualquier movimiento o acción que no está en esta lista.",
         bullets: [
 			"Cuando describes un tipo de movimiento que no está en las reglas, el DM te dirá si éste es posible o no, y qué tirada tienes que hacer, si es necesario, para determinar su éxito o fracaso."
@@ -112,7 +113,7 @@ data_movement = [
         title: "Moverse con agarre",
         icon: "grab",
         subtitle: "Modificador: velocidad reducida",
-        description: "Te mueves junto a la criatura que tienes agarrada.",
+        description: "Te mueves junto a la criatura que tienes agarrada",
         reference: "PHB, pg. 195.",
         bullets: [
 			"Si te mueves mientras tienes otra criatura agarrada, tu velocidad se reduce a la mitad, a menos que la criatura que tienes agarrada sea 2 o más tamaños más pequeña que tu.",
