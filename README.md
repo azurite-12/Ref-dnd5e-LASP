@@ -1,9 +1,9 @@
-dnd5e-quickref
+Ref-dnd5e-LASP
 ==============
 
-Una hoja de referencia rápida para Dungeons & Dragons 5e
+Una hoja de referencia rápida para Dungeons & Dragons 5e en Español Latino.
 
-Icons
+Íconos
 ==============
 
 Todos los íconos fueron sacados de  http://game-icons.net/
