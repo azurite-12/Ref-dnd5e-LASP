@@ -3,7 +3,7 @@ data_action = [
         title: "Ataque",
         icon: "crossed-swords",
         subtitle: "Ataque melé o rango",
-        description: "Realiza un ataque cuerpo-a-cuerpo o a distancia contra un objetivo.",
+        description: "Realiza un ataque cuerpo-a-cuerpo o a distancia contra un objetivo",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
             "Ciertos rasgos, como el rasgo de <i>Ataque Extra</i> del Guerrero, te permiten realizar más de un ataque con esta acción. Cada uno de estos ataques es una tirada aparte y puede tener como objetivo diferentes criaturas. Puedes moverte mientras haces estos ataques.",
@@ -67,7 +67,7 @@ data_action = [
         title: "Retirarse",
         icon: "journey",
         subtitle: "Previene atks de oportunidad",
-        description: "Tu movimiento no provoca ataques de oportunidad en tu turno",
+        description: "Tu movimiento no provoca ataques de oportunidad durante tu turno al usar esta acción",
         reference: "PHB, pg. 192.",
         bullets: [
         ]
@@ -184,7 +184,7 @@ data_action = [
         bullets: [
             "Haz una prueba de Medicina de CD10.",
             "Si es exitosa, la criatura se estabiliza y no necesita hacer tiradas de salvación de muerte.",
-            "Una criatura estable recupera 1hp después de 1d4 horas."
+            "Una criatura estable recupera 1HP después de 1d4 horas."
         ]
     },
     {
