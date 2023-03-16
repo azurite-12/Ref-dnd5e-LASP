@@ -131,9 +131,9 @@ data_condition = [
         ]
     },
     {
-        title: "Postrado",
+        title: "Tumbado",
         icon: "crawl",
-        subtitle: "Estás postrado",
+        subtitle: "Estás en el piso",
         description: "Estás tirado en el piso",
         reference: "PHB, pg. 292.",
         bullets: [
@@ -143,10 +143,10 @@ data_condition = [
         ]
     },
     {
-        title: "Contenido",
+        title: "Apresado",
         icon: "imprisoned",
-        subtitle: "Estás contenido",
-        description: "Te tienen contenido con algún objeto, conjuro, u otro efecto",
+        subtitle: "Estás apresado",
+        description: "Te tienen apresado con algún objeto, conjuro, u otro efecto",
         reference: "PHB, pg. 292.",
         bullets: [
             "Tu velocidad se reduce a 0, y no puedes recibir bonos a tu velocidad.",
